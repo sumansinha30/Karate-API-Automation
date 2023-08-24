@@ -1,0 +1,26 @@
+NonProd:
+  globalURL: https://reqres.in/api/
+  globalContentType: application/json
+  OracleDbConfig:
+    driverClassName:
+    url:
+    username:
+    passowrd:
+
+Dev:
+  globalURL: https://reqres.in/api/
+  globalContentType: application/json
+  OracleDbConfig:
+    driverClassName:
+    url:
+    username:
+    passowrd:
+
+QA:
+  globalURL: https://reqres.in/api/
+  globalContentType: application/json
+  OracleDbConfig:
+    driverClassName:
+    url:
+    username:
+    passowrd:
